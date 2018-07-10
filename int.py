@@ -7,3 +7,5 @@ while name != 'done':
     int_list.append(name)
     name = input('one more?\n')
 print('interfaces ip:',int_list)
+
+#test

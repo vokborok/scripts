@@ -10,7 +10,7 @@ for i in all_children:
 for k in d:
    print(k ,d[k])
 
-
+print(k)
 
 
 #obj=cisco_cfg.find_objects(r"^object")
@@ -18,3 +18,5 @@ for k in d:
 # i=str(i).split()
 # print(i[5], cisco_cfg.find_children(obj))
  #print(cisco_cfg.find_children(i[5]))
+
+ #test GIT
